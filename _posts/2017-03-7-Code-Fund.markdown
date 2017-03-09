@@ -10,8 +10,6 @@ image-home: "https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg"
 
 <p>Code Fund is a group project, inspired by our experience so far in the tech world. CodeFund is a space to ask technical questions to fellow developers, with questioners donating to the charity chosen by the owner of the best answer. My teammates and I wanted to explore using tech for good; how to contribute to charity alongside providing a service.</p>
 
-The app can be accessed here: <a href="https://codefund.herokuapp.com/" target="_blank">**CodeFund**</a>
-
 
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-08%20at%2012.07.03_zpsjommz7xt.png "Code Fund Homepage")
 
@@ -34,7 +32,7 @@ Collaboration
 
 <p>The app was built over the course of 4 days with a team of 5, this consisted of planning, collaboration and delegation of tasks. We used Balsamiq for wireframes, Trello for organisation and the delegation of tasks and git for version and collaboration control. We also often pair programmed on more complicated tasks and brainstormed as a team for branding/design ideas.<p>
 
-</br>
+<br/>
 
 Summary of Technology
 
@@ -50,4 +48,7 @@ Summary of Technology
 
 <br/>
 
-Read more about Remote Composer at [GitHub](https://github.com/jgburton/WDI_PROJECT_3)
+Read more about Remote Composer at[GitHub](https://github.com/jgburton/WDI_PROJECT_3)
+
+<br/>
+The app can be accessed here: <a href="https://codefund.herokuapp.com/" target="_blank">CodeFund</a>
