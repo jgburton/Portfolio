@@ -4,11 +4,14 @@ title: "Code Fund"
 date: 2017-02-07
 categories:
 description:
-image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
+image-home: "https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg"
 ---
 **The Concept...**
 
 <p>Code Fund is a group project, inspired by our experience so far in the tech world. CodeFund is a space to ask technical questions to fellow developers, with questioners donating to the charity chosen by the owner of the best answer. My teammates and I wanted to explore using tech for good; how to contribute to charity alongside providing a service.</p>
+
+The app can be accessed here: <a href="https://codefund.herokuapp.com/" target="_blank">**CodeFund**</a>
+
 
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-08%20at%2012.07.03_zpsjommz7xt.png "Code Fund Homepage")
 

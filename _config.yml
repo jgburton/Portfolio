@@ -16,7 +16,7 @@ home_img: "https://unsplash.com/search/hong?photo=ujPOfVJ7i3I"
 # Profile settings
 name: Jamie Grantham-Burton
 profile_img: "http://i1174.photobucket.com/albums/r613/jgburton/_MG_0689_zpsw6pxwu0u.jpg"
-profile: I'm a Full Stack Web Developer based in London from Derbyshire via Hong Kong, with a background in Music.
+profile: "I'm a Full Stack Web Developer based in London from Derbyshire via Hong Kong, with a background in Music. I also work as a guitarist and teacher."
 social:
   # twitter:
   github: "https://www.github.com/jgburton"
