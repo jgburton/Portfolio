@@ -3,7 +3,7 @@ layout: post
 title: "Remote Composer"
 date: 2017-03-07
 categories:
-description:
+description: "Blah Blah Blah"
 image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 ---
 **The Concept...**
