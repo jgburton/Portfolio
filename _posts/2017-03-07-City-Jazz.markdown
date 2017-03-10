@@ -12,8 +12,14 @@ image-home: https://unsplash.com/search/hong?photo=ujPOfVJ7i3I
 <p>City Jazz is a Google Maps based application for finding jazz venues in London. This was achieved by integrating the google maps API and the Yelp API for the venue data. The user’s location is plotted on the map via geolocation and then venues are plotted on the map. The user can learn more or navigate to the venue via the integrated City Mapper widget.</p>
 
 <!-- The site can be viewed here: [https://swishlists.herokuapp.com](https://swishlists.herokuapp.com) -->
-
+Home Page
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Home_zpstubsqa5s.png "City Jazz Home Page")
+
+Logged In
+![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-10%20at%2014.03.37_zpsn7mljqte.png "Logged in")
+
+More Details
+![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-10%20at%2014.04.16_zpsiqkhnm1j.png "More Info")
 
 <!-- **Welcome to the users page** -->
 <!--
@@ -35,6 +41,10 @@ Collaboration
 <p>The app was built over the course of 4 days with a team of 5, this consisted of planning, collaboration and delegation of tasks. We used Balsamiq for wireframes, Trello for organisation and the delegation of tasks and git for version and collaboration control. We also often pair programmed on more complicated tasks and brainstormed as a team for branding/design ideas.<p>
 
 </br> -->
+
+
+The app can be accessed here: <a href="https://city-jazz.herokuapp.com" target="_blank">**CityJazz**</a>
+
 
 Summary of Technology
 
