@@ -48,7 +48,8 @@ Summary of Technology
 
 <br/>
 
-Read more about Remote Composer at[GitHub](https://github.com/jgburton/WDI_PROJECT_3)
+<!-- Read more about Code Fund at [GitHub](https://github.com/jgburton/WDI_PROJECT_3) -->
+Read more about Code Fund on GitHub: <a href="https://github.com/jgburton/WDI_PROJECT_3" target="_blank">CodeFund</a>
 
 <br/>
 The app can be accessed here: <a href="https://codefund.herokuapp.com/" target="_blank">CodeFund</a>

@@ -21,6 +21,9 @@ Logged In
 More Details
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-10%20at%2014.04.16_zpsiqkhnm1j.png "More Info")
 
+Navigate to your venue using the integrated city mapper widget
+![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-10%20at%2016.32.23_zpszx3nkssf.png "Map location")
+
 <!-- **Welcome to the users page** -->
 <!--
 
