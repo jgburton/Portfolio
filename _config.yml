@@ -16,7 +16,7 @@ home_img: "https://unsplash.com/search/hong?photo=ujPOfVJ7i3I"
 # Profile settings
 name: Jamie Grantham-Burton
 profile_img: "http://i1174.photobucket.com/albums/r613/jgburton/_MG_0689_zpsw6pxwu0u.jpg"
-profile: "I'm a Full Stack Web Developer, Musician and teacher based in London who is passionate about utilising technology to help improve others everyday lives. I'm originally from Derbyshire and lived in Hong Kong for a few years before moving to London. I studied Music at University and development at General Asembly."
+profile: "I'm a Full Stack Web Developer and Musician originally from Derbyshire, currently based in London, having lived in Hong Kong for a couple of years. I studied Music at university, and recently completed an immersive web development course with General Assembly, having realised I'm passionate about creating and utilising technology to improve others' everyday lives."
 social:
   # twitter:
   github: "https://www.github.com/jgburton"
