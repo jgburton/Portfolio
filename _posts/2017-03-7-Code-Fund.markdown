@@ -28,6 +28,11 @@ image-home: "https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg"
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/JavaScript%20Q%20Page_zpsq9ciqqpg.png "Code Fund Questions page")
  <br/>
 
+ **Example Questions**
+
+ ![alt text](http://i.imgur.com/Uhi5JPa.png "e.g question")
+ <br/>
+
 Collaboration
 
 <p>The app was built over the course of 4 days with a team of 5, this consisted of planning, collaboration and delegation of tasks. We used Balsamiq for wireframes, Trello for organisation and the delegation of tasks and git for version and collaboration control. We also often pair programmed on more complicated tasks and brainstormed as a team for branding/design ideas.<p>

@@ -10,7 +10,7 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 
 <p>Remote Composer is an open source music composition platform, for composers and artists who want to collaborate and develop musical ideas together. This app was built in four days as a duo project.</p>
 
-![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Home_zpsvbqwqja3.png "Remote Composer Homepage")
+![alt text](http://i.imgur.com/uOVnl1h.png "Remote Composer Homepage")
 
 <!-- Video Test
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -18,18 +18,21 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 **The Problem**
 <p>A composer may often come up with a short phrase or 'idea' and not develop it. They may throw it away or forget about it due to lack of interest, inspiration or time. Maybe they won't even record the 'idea'. The potential of that 'idea', is then no more.</p>
 
-![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Ideas_zpsww5zv5vn.png "Remote Composer Ideas Page")
-<br/>
+![alt text](http://i.imgur.com/3sdIHq0.png "Remote Composer Ideas Page")
+
 **The Solution**
 <p>To solve this problem we decided to create a platform for composers to upload their unfinished ideas, with the intention of other composers being able to contribute to that 'idea' and result in a collaborative composition.</p>
 
-![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Submit%20Idea_zpsp6i4us5n.png "Submit Ideas")
+![alt text](http://i.imgur.com/JYcS5ey.png "Addition")
  <br/>
 
 **Audio Upload via FileStack**
 <br/>
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Screen%20Shot%202017-03-08%20at%2011.38.29_zpsvyqkewei.png "File Stack")
 <br/>
+
+Listen to/download the collaborative composition
+![alt text](http://i.imgur.com/zpLKtMW.png "Play all")
 
 **Summary of Technology**
 
