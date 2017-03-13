@@ -12,7 +12,9 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 
 ![alt text](http://i1174.photobucket.com/albums/r613/jgburton/Home_zpsvbqwqja3.png "Remote Composer Homepage")
 
-<br/>
+<!-- Video Test
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<br/> -->
 **The Problem**
 <p>A composer may often come up with a short phrase or 'idea' and not develop it. They may throw it away or forget about it due to lack of interest, inspiration or time. Maybe they won't even record the 'idea'. The potential of that 'idea', is then no more.</p>
 
@@ -47,3 +49,6 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 <br/>
 
 Read more about Remote Composer at [GitHub](https://github.com/jgburton/wdi_project_4_api)
+
+<br/>
+The app can be accessed here: <a href="https://remotecomposer.herokuapp.com/" target="_blank">CodeFund</a>
