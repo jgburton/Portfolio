@@ -12,9 +12,9 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 
 ![alt text](http://i.imgur.com/uOVnl1h.png "Remote Composer Homepage")
 
-<!-- Video Test
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-<br/> -->
+Video Demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rix8R2qqICQ" frameborder="0" allowfullscreen></iframe>
+<br/>
 **The Problem**
 <p>A composer may often come up with a short phrase or 'idea' and not develop it. They may throw it away or forget about it due to lack of interest, inspiration or time. Maybe they won't even record the 'idea'. The potential of that 'idea', is then no more.</p>
 
