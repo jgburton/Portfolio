@@ -48,5 +48,7 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 
 <br/>
 
-<p>Read more about Remote Composer at [GitHub](https://github.com/jgburton/wdi_project_4_api)</p>
-<p>The app can be accessed here: <a href="https://remotecomposer.herokuapp.com/" target="_blank">CodeFund</a></p>
+Read more about Remote Composer at [GitHub](https://github.com/jgburton/wdi_project_4_api)
+
+<br/>
+The app can be accessed here: <a href="https://remotecomposer.herokuapp.com/" target="_blank">CodeFund</a>
