@@ -12,9 +12,12 @@ image-home: https://unsplash.com/search/photos/hong-kong?photo=DqKfhGbI-sg
 
 ![alt text](http://i.imgur.com/uOVnl1h.png "Remote Composer Homepage")
 
-Video Demo:
+<!-- Video Demo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rix8R2qqICQ" frameborder="0" allowfullscreen></iframe>
 <br/>
+**The Problem**
+<p>A composer may often come up with a short phrase or 'idea' and not develop it. They may throw it away or forget about it due to lack of interest, inspiration or time. Maybe they won't even record the 'idea'. The potential of that 'idea', is then no more.</p> -->
+
 **The Problem**
 <p>A composer may often come up with a short phrase or 'idea' and not develop it. They may throw it away or forget about it due to lack of interest, inspiration or time. Maybe they won't even record the 'idea'. The potential of that 'idea', is then no more.</p>
 
@@ -46,12 +49,9 @@ Listen to/download the collaborative composition
 <li>FileStack</li>
 </ul>
 
-
-
-
 <br/>
-
+<a href="https://www.youtube.com/watch?v=rix8R2qqICQ" target="_blank">Remote Composer Demo video</a>
+<br/>
 Read more about Remote Composer at [GitHub](https://github.com/jgburton/wdi_project_4_api)
-
 <br/>
 The app can be accessed here: <a href="https://remotecomposer.herokuapp.com/" target="_blank">Remote Composer</a>
