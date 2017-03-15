@@ -38,16 +38,7 @@ Listen to/download the collaborative composition
 ![alt text](http://i.imgur.com/zpLKtMW.png "Play all")
 
 **Summary of Technology**
-
-<ul>
-<li>Ruby on Rails</li>
-<li>PostgreSQL</li>
-<li>AngularJS</li>
-<li>HTML</li>
-<li>SCSS/SASS</li>
-<li>Bootstrap</li>
-<li>FileStack</li>
-</ul>
+<p>Ruby on Rails | PostgreSQL | AngularJS | HTML | SCSS | Bootstrap | FileStack</p>
 
 <br/>
 <a href="https://www.youtube.com/watch?v=rix8R2qqICQ" target="_blank">Remote Composer Demo video</a>

@@ -46,23 +46,12 @@ Collaboration
 </br> -->
 
 
-The app can be accessed here: <a href="https://city-jazz.herokuapp.com" target="_blank">**CityJazz**</a>
+
 
 
 Summary of Technology
-
-<ul>
-<li>Express</li>
-<li>Node.js</li>
-<li>MongoDB</li>
-<li>jQuery</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Bootstrap</li>
-<li>Gulp</li>
-</ul>
-
-
+<p>Express | Node.js | MongoDB | jQuery | HTML | CSS | Bootstrap | Gulp</p>
 <br/>
-
+The app can be accessed here: <a href="https://city-jazz.herokuapp.com" target="_blank">**CityJazz**</a>
+<br/>
 Read more about City Jazz at [GitHub](https://github.com/jgburton/WDI_PROJECT_2)
