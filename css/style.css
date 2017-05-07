@@ -329,15 +329,9 @@
         margin-top: 30px;
       }
 
-      #clubmate {
-        width: 391px;
-        height: 150px;
-      }
 
-      #musync {
-        height: 150px;
-        width: 350px;
-      }
+
+
 
       .project-info.left {
         margin-left: 200px;
@@ -347,15 +341,7 @@
         margin-right: 200px;
       }
 
-      /*#snowglobe {
-        margin-right: 73px;
-        height: 180px;
-      }*/
 
-      /*#klick-it {
-        margin-left: 62px;
-        height: 180px;
-      }*/
 
       .right {
         float: right;
@@ -1259,3 +1245,7 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+    .circular-image {
+  border-radius:  50%;
+}
