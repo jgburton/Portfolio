@@ -4,8 +4,8 @@ email: jgranthamburton@gmail.com
 description: Junior Web Developer & Freelance Musician based in London, UK.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jgranthamburton
+github_username:  jgburton
 
 # Build settings
 markdown: kramdown
