@@ -1,6 +1,5 @@
----
-layout: default
----
+<!DOCTYPE html>
+
 
     <article id="main">
   <header class="special container">
@@ -11,7 +10,7 @@ layout: default
   <section class="style4 wrapper container">
     {{ content }}
   </section>
-    
+
     <footer>
         {% if page.previous %}
         <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
@@ -19,4 +18,3 @@ layout: default
         <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
     </footer>
 </article>
-
