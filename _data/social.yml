@@ -1,0 +1,16 @@
+- name: Github
+  link: 'https://github.com/jgburton/'
+  social_icon: Github
+  new_window: true
+- name: LinkedIn
+  link: 'https://www.linkedin.com/in/jgranthamburton/'
+  social_icon: LinkedIn
+  new_window: true
+- name: Twitter
+  link: 'https://twitter.com/jgranthamburton'
+  social_icon: Twitter
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/jgranthamburton'
+  social_icon: Instagram
+  new_window: true
