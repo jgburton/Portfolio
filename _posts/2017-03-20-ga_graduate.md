@@ -17,7 +17,7 @@ date:   2016-12-07
 
 ### GA London Web Development Immersive Alumni
 
-One of the most rewarding things is taking a simple idea or concept, starting to build it and finding yourself becoming more inspired and captivated the further you delve into the process. That's why I started building software!
+One of the most rewarding things is taking a simple idea or concept, starting to build it and finding yourself becoming more inspired and captivated the further you delve into the process. That's why I started writing code.
 
 ### What?
 
