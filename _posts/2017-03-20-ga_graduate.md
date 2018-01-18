@@ -13,7 +13,7 @@ date:   2016-12-07
 
 
 
-<img src="https://i.imgur.com/HevOrvC.png" class="fit image">
+<img src="https://i.imgur.com/RqCdwLv.png" class="fit image">
 
 ### GA London Web Development Immersive Alumni
 
