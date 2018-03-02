@@ -1,6 +1,6 @@
 title: Jamie Grantham-Burton
 email: jgranthamburton@gmail.com
-description:  # this means to ignore newlines until "baseurl:"
+description:  > # this means to ignore newlines until "baseurl:"
   <p class="subtitle">I’m a Web Developer and Jazz Musician based in London, UK.</p>
   <br>
   <p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
@@ -14,10 +14,9 @@ url: "http://www.jgranthamburton.com" # the base hostname & protocol for your si
 author: Jamie Grantham-Burton # add your name
 author-pic: jamie.jpg
 about-author: I’m a Web Developer and Jazz Musician based in London, UK.
+# <br> University of Huddersfield BA Music Alumni | General Assembly WDI Alumni
+# <br> HTML | CSS3/Bootstrap | Javascript | Wordpress | PHP | Git </p>
 
-University of Huddersfield BA Music Alumni | General Assembly WDI Alumni
-
-HTML | CSS3/Bootstrap | Javascript | Wordpress | PHP | Git
 
 # Contact links
 # email: jgranthamburton@gmail.com
