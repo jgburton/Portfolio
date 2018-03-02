@@ -1,7 +1,11 @@
 title: My personal blog - Jamie Grantham-Burton
 email: jgranthamburton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.
+  <p class="subtitle">My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.</p>
+  <br>
+  <p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
+  <br>
+  <p class="subtitle">HTML | CSS3/SASS/Bootstrap | Javascript | Wordpress | PHP | Git</p>
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jgranthamburton.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +13,11 @@ url: "http://www.jgranthamburton.com" # the base hostname & protocol for your si
 # Author settings
 author: Jamie Grantham-Burton # add your name
 author-pic: jamie.jpg
-about-author: My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.
+about-author: <p class="subtitle">My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.</p>
+<br>
+<p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
+<br>
+<p class="subtitle">HTML | CSS3/SASS/Bootstrap | Javascript | Wordpress | PHP | Git</p>
 
 # Contact links
 # email: jgranthamburton@gmail.com
