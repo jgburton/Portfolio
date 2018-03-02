@@ -1,7 +1,7 @@
 title: My personal blog - Jamie Grantham-Burton
 email: jgranthamburton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  <p class="subtitle">My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.</p>
+  <p class="subtitle">I’m a Web Developer and Jazz Musician based in London, UK.</p>
   <br>
   <p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
   <br>
@@ -13,7 +13,7 @@ url: "http://www.jgranthamburton.com" # the base hostname & protocol for your si
 # Author settings
 author: Jamie Grantham-Burton # add your name
 author-pic: jamie.jpg
-about-author: <p class="subtitle">My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.</p>
+about-author: <p class="subtitle">I’m a Web Developer and Jazz Musician based in London, UK.</p>
 <br>
 <p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
 <br>
