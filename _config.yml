@@ -3,8 +3,8 @@ email: jgranthamburton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.
 permalink: ':title/'
-baseurl: "/jgranthamburton" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.jgranthamburton.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Jamie Grantham-Burton # add your name
