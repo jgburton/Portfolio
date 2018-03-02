@@ -1,49 +1,47 @@
-locale: "en-US"
-title: Jamie Grantham-Burton # Title of your site
-url: "" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+title: My personal blog - Jamie Grantham-Burton
+email: jgranthamburton@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.
+permalink: ':title/'
+baseurl: "/jgranthamburton" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Default description in social shares for the jekyll-seo-tag gem
-description: Jamie Grantham-Burton Web Developer & Jazz Musician
+# Author settings
+author: Jamie Grantham-Burton # add your name
+author-pic: jamie.jpg
+about-author: My name is Jamie Grantham-Burton. I’m a Web Developer and Jazz Musician based in London, UK.
 
-# Author details for the jekyll-seo-tag gem
-author:
-  name: Jamie Grantham-Burton
-  email: jgranthamburton@gmail.com
-  twitter: # twitter username without the @ symbol
+# Contact links
+email: jgranthamburton@gmail.com
+# phone: # Add your Phone number
+# website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: jgburton # Add your Github handle
+twitter: '@jgranthamburton' # Add your Twitter handle
+# facebook: # Add your Facebook handle
+instagram: jgranthamburton
+# pinterest: # Add your Pinterest handle
 
-# Social details for the jekyll-seo-tag gem
-social:
-  name: Strata Reloaded Template
-  links:
-    - https://github.com/comfusion/strata-reloaded-jekyll-template
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
 
-permalink: pretty
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
 
-gems:
-  - "jekyll-feed"
-  - "jekyll-seo-tag"
-  - "jekyll-paginate"
-  - "jekyll-sitemap"
+# Tracker
+analytics: # Google Analytics
 
-# Jekyll SEO Tag
-webmaster_verifications:
-  google: # 1234
-  bing: # 1234
-  alexa: # 1234
-  yandex: # 1234
+# Paginate
+paginate: 6
+paginate_path: /page:num/
 
-# -----------
-# CloudCannon
+# Build settings
+markdown: kramdown
 
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
