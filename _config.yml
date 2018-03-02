@@ -13,11 +13,11 @@ url: "http://www.jgranthamburton.com" # the base hostname & protocol for your si
 # Author settings
 author: Jamie Grantham-Burton # add your name
 author-pic: jamie.jpg
-about-author: <p class="subtitle">I’m a Web Developer and Jazz Musician based in London, UK.</p>
-<br>
-<p class="subtitle">University of Huddersfield BA Music Alumni | General Assembly WDI Alumni</p>
-<br>
-<p class="subtitle">HTML | CSS3/Bootstrap | Javascript | Wordpress | PHP | Git</p>
+about-author: I’m a Web Developer and Jazz Musician based in London, UK.
+
+University of Huddersfield BA Music Alumni | General Assembly WDI Alumni
+
+HTML | CSS3/Bootstrap | Javascript | Wordpress | PHP | Git
 
 # Contact links
 # email: jgranthamburton@gmail.com
