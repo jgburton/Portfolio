@@ -7,9 +7,15 @@ end
 
 activate :directory_indexes
 
+# activate :deploy do |deploy|
+#   deploy.deploy_method = :git
+#   deploy.branch = 'gh-pages'
+#   deploy.build_before = true
+# end
+
 activate :deploy do |deploy|
-  deploy.deploy_method = :git
-  deploy.branch = 'gh-pages'
+  deploy.method = :git
+  deploy.branch = 'master'
   deploy.build_before = true
 end
 
@@ -22,6 +28,8 @@ set :fonts_dir,  "fonts"
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+
+
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
